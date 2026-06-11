@@ -32,19 +32,12 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 *   **07_string_comparacion:** Validación e igualdad referencial vs igualdad estructural (`equals()`).
 *   **08_operadores_logicos:** Cortocircuito y álgebra de Boole avanzada (`AND`, `OR`, `NOT`).
 
----
-
-## 🗺️ Roadmap de Escalabilidad (Próximos Módulos)
-
-El repositorio está diseñado para expandirse incorporando las siguientes capas de arquitectura e ingeniería:
-
-- [ ] **Fase 4: Estructuras de Control y Bucles** (Control de flujo de ejecución eficiente).
-- [ ] **Fase 5: Programación Orientada a Objetos (POO)** (Abstracción, Herencia, Polimorfismo, Encapsulamiento y Diseño de Interfaces).
-- [ ] **Fase 6: Java Collections Framework** (Gestión óptima de estructuras de datos en memoria: Lists, Sets, Maps).
-- [ ] **Fase 7: Programación Funcional & Streams API** (Expresiones Lambda, flujos de datos asíncronos y programación declarativa).
-- [ ] **Fase 8: Arquitectura de Software & Patrones de Diseño** (Principios SOLID, Patrones Creacionales, Estructurales y Pruebas Unitarias con JUnit 5).
-
----
+### 📁 04_CONDICIONES
+* **01_declaracion_if:** Implementación de bifurcaciones lógicas simples para el control de flujo básico.
+* **02_if_else:** Gestión de flujos de ejecución alternativos mediante estructuras de decisión binarias.
+* **03_switch:** Optimización de decisiones múltiples basadas en expresiones condicionales evaluadas por coincidencia de patrones.
+* **04_operador_ternario:** Simplificación sintáctica y asignación condicional compacta en una sola línea de código.
+* **05_if_anidado:** Estructuración jerárquica y compleja de lógica condicional multivariable.
 
 ## 🛠️ Stack Tecnológico
 
