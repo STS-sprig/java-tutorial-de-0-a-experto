@@ -39,6 +39,11 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 * **04_operador_ternario:** Simplificación sintáctica y asignación condicional compacta en una sola línea de código.
 * **05_if_anidado:** Estructuración jerárquica y compleja de lógica condicional multivariable.
 
+### 📁 05_ENTRADA_SALIDAS
+* **01_system_out:** Análisis del flujo de salida estándar (`System.out`). Implementación de impresiones directas en consola y análisis de rendimiento en el buffer de salida.
+* **02_formato_output:** Manipulación avanzada de cadenas mediante formateo estructurado (`printf`). Implementación de banderas de alineación, especificadores de tipo (numéricos, flotantes, caracteres) y delimitación de precisión decimal.
+* **03_acanner_class:** Inyección y captura de flujos de entrada mediante la API de utilidad `java.util.Scanner`. Parseo asíncrono de tipos primitivos, gestión del salto de línea residual (`\n`) y control de excepciones por incompatibilidad de tokens.
+
 ## 🛠️ Stack Tecnológico
 
 *   **Lenguaje:** Java 17 / 21 LTS (Long-Term Support)
