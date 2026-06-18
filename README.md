@@ -44,6 +44,16 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 * **02_formato_output:** Manipulación avanzada de cadenas mediante formateo estructurado (`printf`). Implementación de banderas de alineación, especificadores de tipo (numéricos, flotantes, caracteres) y delimitación de precisión decimal.
 * **03_acanner_class:** Inyección y captura de flujos de entrada mediante la API de utilidad `java.util.Scanner`. Parseo asíncrono de tipos primitivos, gestión del salto de línea residual (`\n`) y control de excepciones por incompatibilidad de tokens.
 
+### 📁 06_BUCLES
+* **01_for:** Control de estructuras iterativas determinadas. Gestión explícita del ciclo de vida del índice mediante inicialización, evaluación condicional y paso de actualización.
+* **02_while:** Estructuras de repetición indeterminadas basadas en precondiciones, evaluando la expresión lógica antes de cada ciclo de ejecución.
+* **03_do_while:** Mecanismos de iteración basados en postcondiciones, garantizando al menos una ejecución obligatoria del bloque de código antes de validar la condición de continuidad.
+* **04_break:** Aplicación de la sentencia de salto para la interrupción abrupta del flujo de control de un bucle ante una condición de salida anticipada.
+* **05_continue:** Optimización de ciclos mediante la omisión del resto de instrucciones de la iteración actual, forzando la evaluación inmediata de la siguiente condición o incremento.
+* **06_for_part_2:** Profundización en estructuras iterativas complejas, manipulación de múltiples variables de control y casos de uso avanzados con el bucle `for`.
+* **07_for_anidado:** Implementación de estructuras cíclicas multidimensionales (bucle dentro de bucle), orientadas al procesamiento de matrices, coordenadas y algoritmos de ordenamiento.
+* **08_bucle_infinito:** Laboratorio práctico y análisis de riesgos del desbordamiento del flujo por omisión de condiciones de parada, simulando ejecuciones continuas en segundo plano (`daemon style`).
+
 ## 🛠️ Stack Tecnológico
 
 *   **Lenguaje:** Java 17 / 21 LTS (Long-Term Support)
