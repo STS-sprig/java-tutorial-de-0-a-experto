@@ -54,6 +54,13 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 * **07_for_anidado:** Implementación de estructuras cíclicas multidimensionales (bucle dentro de bucle), orientadas al procesamiento de matrices, coordenadas y algoritmos de ordenamiento.
 * **08_bucle_infinito:** Laboratorio práctico y análisis de riesgos del desbordamiento del flujo por omisión de condiciones de parada, simulando ejecuciones continuas en segundo plano (`daemon style`).
 
+### 📁 07_METODOS
+* **01_declaracion:** Anatomía y ciclo de vida de un método en Java. Definición de modificadores de acceso, firmas de métodos y el rol del compilador en la resolución de referencias en el archivo fuente.
+* **02_parametros:** Modularización parametrizada. Mecanismos de paso de argumentos y cómo el runtime gestiona las variables locales dentro del stack de ejecución.
+* **03_return:** Control del flujo de salida de un método. Especificación de tipos de retorno estructurados y primitivos mediante el uso estricto de la palabra clave `return`.
+* **04_sobre_carga_de_metodos:** Implementación de polimorfismo estático (Sobrecarga / *Overloading*). Creación de múltiples métodos con el mismo identificador diferenciados por su lista de parámetros (cambio en tipo, cantidad o orden).
+* **05_void:** Métodos de tipo procedimiento. Definición de subrutinas orientadas a la ejecución de efectos secundarios (*side effects*) que no devuelven ningún valor computable al flujo principal.
+
 ## 🛠️ Stack Tecnológico
 
 *   **Lenguaje:** Java 17 / 21 LTS (Long-Term Support)
