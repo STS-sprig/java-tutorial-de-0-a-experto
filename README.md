@@ -61,6 +61,12 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 * **04_sobre_carga_de_metodos:** Implementación de polimorfismo estático (Sobrecarga / *Overloading*). Creación de múltiples métodos con el mismo identificador diferenciados por su lista de parámetros (cambio en tipo, cantidad o orden).
 * **05_void:** Métodos de tipo procedimiento. Definición de subrutinas orientadas a la ejecución de efectos secundarios (*side effects*) que no devuelven ningún valor computable al flujo principal.
 
+### 📁 08_ARRAYS_BASICOS
+* **01_declaracion_array:** Mecanismos de instanciación y asignación de arreglos unidimensionales en memoria. Definición de tamaño fijo y tipado estático en la inicialización de estructuras indexadas.
+* **02_accediendo_elemnetos:** Operaciones de lectura y acceso directo mediante índices lógicos. Análisis del comportamiento del runtime ante el desbordamiento de límites de memoria (*ArrayIndexOutOfBoundsException*).
+* **03_modificar_elementos_array:** Mutabilidad estructural. Técnicas de reasignación de valores en posiciones indexadas específicas manteniendo la integridad del tipo de dato base.
+* **04_metodos_array:** Interacción y manipulación de arreglos a través de la API nativa y utilidades integradas de Java para la gestión de datos estructurados.
+
 ## 🛠️ Stack Tecnológico
 
 *   **Lenguaje:** Java 17 / 21 LTS (Long-Term Support)
