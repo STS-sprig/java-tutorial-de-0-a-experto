@@ -67,6 +67,11 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 * **03_modificar_elementos_array:** Mutabilidad estructural. Técnicas de reasignación de valores en posiciones indexadas específicas manteniendo la integridad del tipo de dato base.
 * **04_metodos_array:** Interacción y manipulación de arreglos a través de la API nativa y utilidades integradas de Java para la gestión de datos estructurados.
 
+### 📁 09_ITERAR_EN_ARRAYS
+* **01_usando_el_bucle_for:** Implementación de algoritmos de recorrido clásico utilizando índices numéricos explícitos. Control detallado de los límites del arreglo a través de la propiedad `.length`.
+* **02_bucle_for_mejorado:** Abstracción del flujo iterativo mediante el uso de *For-Each*. Optimización de la lectura secuencial de datos eliminando el riesgo de errores por desfase de índices (*Off-by-one errors*).
+* **03_operaciones_con_arrays:** Desarrollo de lógica algorítmica aplicada sobre colecciones indexadas (búsquedas, filtros, acumulaciones y mutación controlada de elementos).
+
 ## 🛠️ Stack Tecnológico
 
 *   **Lenguaje:** Java 17 / 21 LTS (Long-Term Support)
