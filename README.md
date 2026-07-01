@@ -72,6 +72,12 @@ El código fuente se organiza de forma estrictamente modular dentro del director
 * **02_bucle_for_mejorado:** Abstracción del flujo iterativo mediante el uso de *For-Each*. Optimización de la lectura secuencial de datos eliminando el riesgo de errores por desfase de índices (*Off-by-one errors*).
 * **03_operaciones_con_arrays:** Desarrollo de lógica algorítmica aplicada sobre colecciones indexadas (búsquedas, filtros, acumulaciones y mutación controlada de elementos).
 
+### 📁 10_OPERACIONES_DE_CADENA
+* **01_string_metodos:** Introducción a la manipulación de objetos `String`. Análisis de métodos nativos fundamentales para inspección, extracción y transformación de flujos de caracteres.
+* **02_string_metodos_2:** Extensiones operacionales de la clase `String`. Implementación de lógica avanzada para búsqueda avanzada, reemplazo controlado y división indexada de secuencias de texto.
+* **03_string_formato:** Formateo estructurado de cadenas de texto. Uso de especificadores y la API de formateo para construir salidas legibles e inmutables alineadas a estándares técnicos.
+* **04_string_comparacion:** Análisis de igualdad y precedencia alfanumérica. Evaluación del comportamiento de cadenas en memoria (Pool de Strings) utilizando métodos de comparación semántica y relacional.
+
 ## 🛠️ Stack Tecnológico
 
 *   **Lenguaje:** Java 17 / 21 LTS (Long-Term Support)
